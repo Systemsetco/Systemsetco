@@ -1,5 +1,6 @@
-# Systemset Co
-*"Every system needs the right set."*
+<p align="center">
+  <img src="assets/logo/Systemset%20Light%20Square%20for%20Articles.png" alt="Systemset Co Logo" width="200">
+</p>
 
 ---
 
