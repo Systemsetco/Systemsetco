@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="assets/logo/Systemset%20Light%20Square%20for%20Articles.png" alt="Systemset Co Logo" width="200">
 </p>
 
