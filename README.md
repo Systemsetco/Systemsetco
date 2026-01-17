@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/logo/Systemset%20Light%20Square%20for%20Articles.png" alt="Systemset Co Logo" width="300">
+  <img src="assets/logo/Systemset%20Light%20Square%20for%20Articles.png" alt="Systemset Co Logo" width="250">
 </p>
 
 ---
