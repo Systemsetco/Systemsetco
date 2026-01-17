@@ -1,3 +1,8 @@
+# Systemset Co
+*"Every system needs the right set."*
+
+---
+
 ![Systemset Co Banner](assets/logo/New%20Banner%20of%20Systemset%20(LinkedIn).png)
 
 ---
