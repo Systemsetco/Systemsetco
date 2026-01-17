@@ -1,7 +1,3 @@
-<p>
-  <img src="assets/logo/Systemset%20Light%20Square%20for%20Articles.png" alt="Systemset Co Logo" width="250">
-</p>
-
 ![Systemset Co Banner](assets/logo/New%20Banner%20of%20Systemset%20(LinkedIn).png)
 
 ---
